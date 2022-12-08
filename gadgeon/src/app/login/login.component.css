@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}.form{
+    background-color: cadetblue;
+    height: 300px;
+    width: 400px;
+    text-align: center;
+    margin-left: 35%;
+
+    
+}
+.mail{
+    padding-top: 100px;
+}
+body{
+    background-image: url('src/assets/login_imag.jpg');
+    /* background-size:cover;
+    background-repeat: no-repeat;
+    background-size: 250%;
+    height: 800px;
+     */
+}
